@@ -1,6 +1,7 @@
 {
 "type": "FeatureCollection",
 "name": "longhungtg",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::9210" } },
 "features": [
 { "type": "Feature", "properties": { "DiaChi": "to 1 thua 1my loc", "SHBANDO": "to 1 thua 1my loc" }, "geometry": { "type": "Point", "coordinates": [ 600959.909075255156495, 1149063.860503311734647 ] } },
 { "type": "Feature", "properties": { "DiaChi": "to 2 thua 1000my loc", "SHBANDO": "to 2 thua 1000my loc" }, "geometry": { "type": "Point", "coordinates": [ 601052.88315564126242, 1149049.71290743094869 ] } },

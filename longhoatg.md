@@ -1,6 +1,7 @@
 {
 "type": "FeatureCollection",
 "name": "longhoatg",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::9210" } },
 "features": [
 { "type": "Feature", "properties": { "DiaChi": "to 2 thua 240my loc", "SHBANDO": "to 2 thua 240my loc" }, "geometry": { "type": "Point", "coordinates": [ 599236.426293892669491, 1145285.441234112717211 ] } },
 { "type": "Feature", "properties": { "DiaChi": "to 2 thua 241my loc", "SHBANDO": "to 2 thua 241my loc" }, "geometry": { "type": "Point", "coordinates": [ 599241.793252422474325, 1145284.744604111649096 ] } },

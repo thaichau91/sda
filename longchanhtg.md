@@ -1,6 +1,7 @@
 {
 "type": "FeatureCollection",
 "name": "longchanhtg",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::9210" } },
 "features": [
 { "type": "Feature", "properties": { "DiaChi": "to 6 thua 508my loc", "SHBANDO": "to 6 thua 508my loc" }, "geometry": { "type": "Point", "coordinates": [ 598962.119062953046523, 1147066.486186776543036 ] } },
 { "type": "Feature", "properties": { "DiaChi": "to 6 thua 506my loc", "SHBANDO": "to 6 thua 506my loc" }, "geometry": { "type": "Point", "coordinates": [ 598805.619933361303993, 1147064.862055944511667 ] } },
